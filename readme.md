@@ -1,6 +1,6 @@
 # Repositório Digital Innovation One.
 
-## Repositório designado apenas para exercicios e aprendizado DIO.
+## Repositório designado apenas para exercícios e aprendizado DIO.
 
 ##  *Repository designated only for DIO exercises and learning*
 

@@ -1,0 +1,53 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(194, 233, 231);
+}
+
+.flex-container {
+    width: 30%;
+    margin: auto;
+    margin-top: 7%;
+    background: rgba(245, 245, 245, 0.545);
+    border-radius: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 18px;
+}
+
+.btn {
+    margin-top: 8%;
+    padding: 10px;
+    margin: 15px 10px 0 12px;
+    border-radius: 40%;
+    border: none;
+    background-color: rgb(51, 51, 229);
+    color: aliceblue;
+    cursor: pointer;
+
+
+}
+
+#counter, .linkedin {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.linkedin {
+    margin-top: 15%;
+}
